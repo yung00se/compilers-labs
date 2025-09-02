@@ -1,0 +1,24 @@
+# Keywords and identifiers
+int main
+if else while return break continue
+myVar another_var _hiddenVar
+
+# Integers
+0 42 2147483647 2147483648
+
+# Strings
+"hello world"
+"string with newline\nand tab\tcharacters"
+"unterminated string literal
+"bad escape sequence \q"
+"bad escape unterminated \
+
+# Operators & punctuation
++ - * / % = == != < <= > >= && || !
+; , . ( ) { } [ ]
+
+# Illegal characters
+$ @ ~
+
+# Mixed with whitespace
+foo    123    "ok"
